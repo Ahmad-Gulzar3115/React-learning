@@ -1,11 +1,11 @@
 # React + Vite
 
-I this first I learned about the basics of react and also built the basic Ludo Game and also built the very Simple ToDo List in React.
+In this first I learned about the basics of react and also built the basic Ludo Game and also built the very Simple ToDo List in React.
 
-LUDO-GAME
+# LUDO-GAME
 In whiuch I simply created the button of four colors that on click the button update the value of count.
 
-TODO LIST
+# TODO LIST
 The Todo List conatain the functionality:
 1:Add the Task
 2:Delete the task
