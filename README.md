@@ -1,5 +1,19 @@
 # React + Vite
 
+I this first I learned about the basics of react and also built the basic Ludo Game and also built the very Simple ToDo List in React.
+
+LUDO-GAME
+In whiuch I simply created the button of four colors that on click the button update the value of count.
+
+TODO LIST
+The Todo List conatain the functionality:
+1:Add the Task
+2:Delete the task
+3:Mak as One (This is for when one task is done)
+4:Mark all Done(Thius is for when all the task are done)
+5:Uppercase/LowerCase letter (I n code the func tionality of all or one task in uppercase or lowercase letter is written. 
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
